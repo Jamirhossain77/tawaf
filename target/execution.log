@@ -1,0 +1,70 @@
+2020-07-04 20:53:03 INFO  BrowserLog4:16 - Set Property
+2020-07-04 20:53:03 INFO  BrowserLog4:18 - Open Blank Browser
+2020-07-04 20:53:07 INFO  BrowserLog4:20 - Pass the URL
+2020-07-04 20:53:08 INFO  BrowserLog4:22 - Enter Username
+2020-07-04 20:53:08 INFO  BrowserLog4:24 - Enter Password
+2020-07-04 20:53:08 INFO  BrowserLog4:26 - click on loginButton
+2020-07-04 20:53:09 INFO  BrowserLog4:28 - Quite the driver
+2020-07-04 20:55:56 INFO  BrowserLog4:16 - Set Property
+2020-07-04 20:55:56 INFO  BrowserLog4:18 - Open Blank Browser
+2020-07-04 20:56:00 INFO  BrowserLog4:20 - Pass the URL
+2020-07-04 20:56:01 INFO  BrowserLog4:22 - Enter Username
+2020-07-04 20:56:01 INFO  BrowserLog4:24 - Enter Password
+2020-07-04 20:56:01 INFO  BrowserLog4:26 - click on loginButton
+2020-07-04 20:56:02 INFO  BrowserLog4:28 - Quite the driver
+2020-07-04 20:58:44 INFO  BrowserLog4:16 - Set Property
+2020-07-04 20:58:44 INFO  BrowserLog4:18 - Open Blank Browser
+2020-07-04 20:58:48 INFO  BrowserLog4:20 - Pass the URL
+2020-07-04 20:58:52 INFO  BrowserLog4:23 - Enter Username
+2020-07-04 20:58:52 INFO  BrowserLog4:25 - Enter Password
+2020-07-04 20:58:52 INFO  BrowserLog4:27 - click on loginButton
+2020-07-04 20:58:52 INFO  BrowserLog4:29 - Quite the driver
+2020-07-04 20:59:48 INFO  BrowserLog4:16 - Set Property
+2020-07-04 20:59:48 INFO  BrowserLog4:18 - Open Blank Browser
+2020-07-04 20:59:51 INFO  BrowserLog4:20 - Pass the URL
+2020-07-04 20:59:53 INFO  BrowserLog4:22 - Enter Username
+2020-07-04 20:59:53 INFO  BrowserLog4:24 - Enter Password
+2020-07-04 20:59:53 INFO  BrowserLog4:26 - click on loginButton
+2020-07-04 20:59:53 INFO  BrowserLog4:28 - Quite the driver
+2020-07-04 21:01:31 INFO  BrowserLog4:16 - Set Property
+2020-07-04 21:01:31 INFO  BrowserLog4:18 - Open Blank Browser
+2020-07-04 21:01:34 INFO  BrowserLog4:20 - Pass the URL
+2020-07-04 21:01:37 INFO  BrowserLog4:23 - Enter Username
+2020-07-04 21:01:37 INFO  BrowserLog4:25 - Enter Password
+2020-07-04 21:01:37 INFO  BrowserLog4:27 - click on loginButton
+2020-07-04 21:01:38 INFO  BrowserLog4:29 - Quite the driver
+2020-07-04 21:03:56 INFO  BrowserLog4:16 - Set Property
+2020-07-04 21:03:56 INFO  BrowserLog4:18 - Open Blank Browser
+2020-07-04 21:04:02 INFO  BrowserLog4:21 - Pass the URL
+2020-07-04 21:04:04 INFO  BrowserLog4:24 - Enter Username
+2020-07-04 21:04:04 INFO  BrowserLog4:26 - Enter Password
+2020-07-04 21:04:04 INFO  BrowserLog4:28 - click on loginButton
+2020-07-04 21:04:04 INFO  BrowserLog4:30 - Quite the driver
+2020-07-04 21:05:43 INFO  BrowserLog4:16 - Set Property
+2020-07-04 21:05:43 INFO  BrowserLog4:18 - Open Blank Browser
+2020-07-04 21:05:49 INFO  BrowserLog4:21 - Pass the URL
+2020-07-04 21:05:50 INFO  BrowserLog4:24 - Enter Username
+2020-07-04 21:05:51 INFO  BrowserLog4:26 - Enter Password
+2020-07-04 21:05:51 INFO  BrowserLog4:28 - click on loginButton
+2020-07-04 21:05:54 INFO  BrowserLog4:31 - Quite the driver
+2020-07-04 21:09:08 INFO  BrowserLog4:16 - Set Property
+2020-07-04 21:09:08 INFO  BrowserLog4:18 - Open Blank Browser
+2020-07-04 21:09:12 INFO  BrowserLog4:20 - Pass the URL
+2020-07-04 21:09:13 INFO  BrowserLog4:22 - Enter Username
+2020-07-04 21:09:13 INFO  BrowserLog4:24 - Enter Password
+2020-07-04 21:09:13 INFO  BrowserLog4:26 - click on loginButton
+2020-07-04 21:09:17 INFO  BrowserLog4:29 - Quite the driver
+2020-07-04 21:53:21 INFO  BrowserLog4:16 - Set Property
+2020-07-04 21:53:21 INFO  BrowserLog4:18 - Open Blank Browser
+2020-07-04 21:53:24 INFO  BrowserLog4:20 - Pass the URL
+2020-07-04 21:53:26 INFO  BrowserLog4:22 - Enter Username
+2020-07-04 21:53:26 INFO  BrowserLog4:24 - Enter Password
+2020-07-04 21:53:26 INFO  BrowserLog4:26 - click on loginButton
+2020-07-04 21:53:29 INFO  BrowserLog4:29 - Quite the driver
+2020-07-05 16:02:08 INFO  BrowserLog4:16 - Set Property
+2020-07-05 16:02:08 INFO  BrowserLog4:18 - Open Blank Browser
+2020-07-05 16:02:12 INFO  BrowserLog4:20 - Pass the URL
+2020-07-05 16:02:13 INFO  BrowserLog4:22 - Enter Username
+2020-07-05 16:02:13 INFO  BrowserLog4:24 - Enter Password
+2020-07-05 16:02:14 INFO  BrowserLog4:26 - click on loginButton
+2020-07-05 16:02:17 INFO  BrowserLog4:29 - Quite the driver

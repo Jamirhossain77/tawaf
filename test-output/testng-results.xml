@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-05T16:02:08 EDT" name="Default suite" finished-at="2020-07-05T16:02:18 EDT" duration-ms="9204">
+    <groups>
+    </groups>
+    <test started-at="2020-07-05T16:02:08 EDT" name="Default test" finished-at="2020-07-05T16:02:18 EDT" duration-ms="9204">
+      <class name="com.test.BrowserLog4">
+        <test-method signature="openB()[pri:0, instance:com.test.BrowserLog4@4fb0f2b9]" started-at="2020-07-05T16:02:08 EDT" name="openB" finished-at="2020-07-05T16:02:18 EDT" duration-ms="9160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openB -->
+      </class> <!-- com.test.BrowserLog4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

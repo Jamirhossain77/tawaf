@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Zaber">
+	<test name= "Smoke Test">
+		<classes>
+			<class name="com.test.TestNG_Basic"/>
+			
+		</classes>
+	
+	
+	</test>
+	
+	<test name= "Regression Test">
+		<classes>
+			
+			<class name="com.test.TestNG_Features"/>
+		</classes>
+	
+	
+	</test>
+
+
+</suite>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
